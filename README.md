@@ -137,7 +137,7 @@ The n8n workflow named `send_confirmation` corresponds to the xAI tool named `as
 
 ## Demo
 
-**Loom:** _Add final Loom share link here_
+**Loom:** https://www.loom.com/share/afd58b0740224d8d999bb4b75fa8cc4d
 
 The Loom walkthrough demonstrates the xAI configuration, voice settings, tools, n8n mock backend, mock responses, and supported test flows.
 
